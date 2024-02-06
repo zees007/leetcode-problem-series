@@ -6,6 +6,10 @@
 
 https://medium.com/spring-boot/leetcode-problem-1-two-sum-java-3c7749053258
 
+✅ Leetcode Problem-167 Two Sum II — Input Array Is Sorted [Medium] 
+
+https://medium.com/spring-boot/leetcode-problem-167-two-sum-ii-input-array-is-sorted-medium-java-c6fc565b5687
+
 ✅ LeetCode Problem-2 Add Two Numbers (Java)
 
 https://medium.com/spring-boot/leetcode-problem-2-add-two-numbers-java-9c78915f7914
@@ -18,3 +22,11 @@ https://medium.com/spring-boot/leetcode-problem-15-3sum-medium-java-e1f7e32ce770
 ✅ LeetCode Problem-16 3Sum Closest [Medium] (Java)
 
 https://medium.com/spring-boot/leetcode-problem-16-3sum-closest-medium-java-79d0be0651ae
+
+✅ LeetCode Problem-36 Valid Sudoku [Medium]
+
+https://medium.com/spring-boot/leetcode-problem-36-valid-sudoku-medium-java-8435b5f1d244
+
+✅ LeetCode Problem-37 Sudoku Solver [HARD]
+
+https://medium.com/spring-boot/leetcode-problem-37-sudoku-solver-hard-java-d8f76f200bb1
